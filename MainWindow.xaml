@@ -1,0 +1,18 @@
+﻿<Window x:Class="ejemploWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ejemploWPF"
+        mc:Ignorable="d"
+        Title="Checkbox" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <Label FontWeight="DemiBold">
+            Control de seleccion - Checkbox
+        </Label>
+        <CheckBox IsChecked="True">Opcion 1</CheckBox>
+        <CheckBox>Opcion 2</CheckBox>
+        <CheckBox>Opcion 3</CheckBox>
+    </StackPanel>
+   
+</Window>

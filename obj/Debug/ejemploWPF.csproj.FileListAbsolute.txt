@@ -1,0 +1,15 @@
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\bin\Debug\ejemploWPF.exe.config
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\bin\Debug\ejemploWPF.exe
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\bin\Debug\ejemploWPF.pdb
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF.csprojAssemblyReference.cache
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\App.g.cs
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF_MarkupCompile.cache
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF_MarkupCompile.lref
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\MainWindow.baml
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF.g.resources
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF.Properties.Resources.resources
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF.csproj.GenerateResource.cache
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF.exe
+C:\Users\Ximena Nosthas\Desktop\ejemploWPF\ejemploWPF\obj\Debug\ejemploWPF.pdb
